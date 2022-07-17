@@ -60,6 +60,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 * created github repo
 * cloned starter code
 * referenced module code and lessons
-* ran and tested code, no issues
+* 
 
 ## Deployed Site
