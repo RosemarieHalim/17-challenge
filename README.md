@@ -43,7 +43,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ![challenge screenshot](./dist/challenge17.PNG)
 
 ## Purpose
-
+Create a search engine to help users access and create a list of books to buy later.
 
 ## Built With
 * JavaScript
@@ -63,3 +63,4 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 * tested and fixed code
 
 ## Deployed Site
+https://project-17-mern.herokuapp.com/
